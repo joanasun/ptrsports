@@ -1,0 +1,16 @@
+baseURL = "http://ptrsports.com"
+languageCode = "en-us"
+title = "PTR Sports"
+theme = "ananke"
+sectionPagesMenu = "main"
+
+[[menu.main]]
+    name = "Meet the Experts"
+    weight = -110
+    identifier = "meet"
+    url = "/meet/"
+[[menu.main]]
+    name = "Services"
+    weight = 0
+    identifier = "services"
+    url = "/services/"
