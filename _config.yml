@@ -2,8 +2,8 @@
 title:              PTR Sports
 description:        "A Medical Corporation"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: /ptrsports
+url: httsp://joanasun.github.io
 
 defaults:
 - scope:
