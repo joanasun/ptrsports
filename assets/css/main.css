@@ -4059,6 +4059,7 @@
 						-ms-flex-grow: 0;
 						flex-grow: 0;
 						width: 6rem;
+						padding-right: 20px;
 					}
 
 					#footer > section.split.contact > section > :last-child {

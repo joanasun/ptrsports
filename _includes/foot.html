@@ -1,33 +1,14 @@
 <footer id="footer">
-  <section>
-    <form method="POST" action="https://formspree.io/{{site.email}}">
-      <div class="field">
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
-      </div>
-      <div class="field">
-        <label for="email">Email</label>
-        <input type="text" name="email" id="email" />
-      </div>
-      <div class="field">
-        <label for="message">Message</label>
-        <textarea name="message" id="message" rows="3"></textarea>
-      </div>
-      <ul class="actions">
-        <li><input type="submit" value="Send Message" /></li>
-      </ul>
-    </form>
-  </section>
   <section class="split contact">
+    {% for address in site.data.addresses %}
     <section class="alt">
-      <h3>Locations</h3>
-      {% for address in site.data.addresses %}
-        <section>
-          <p>{{address.street}}</p>
-          <p>{{address.city}}, {{address.state}} {{address.zip}}</p>
-        </section>
-      {% endfor %}
+      <h3>{{address.city}} Office</h3>
+      <section>
+        <p style="margin: 0;">{{address.street}}</p>
+        <p>{{address.city}}, {{address.state}} {{address.zip}}</p>
+      </section>
     </section>
+    {% endfor %}
     <section>
       <h3>Phone</h3>
       <p><a href="tel:{{site.data.contact_info.phone}}">{{site.data.contact_info.phone}}</a></p>
