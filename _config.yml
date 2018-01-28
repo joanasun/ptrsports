@@ -23,6 +23,10 @@ collections:
   meet:
     output: true
     permalink: /:collection/:name
+  for_patients:
+    output: true
+    permalink: /:collection/:name
+
 
 
 # Jekyll
