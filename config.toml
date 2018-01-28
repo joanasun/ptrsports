@@ -18,7 +18,7 @@ sectionPagesMenu = "main"
     name = "For Patients"
     weight = 3
     identifier = "for_patients"
-    url = "/patients/"
+    url = "/for_patients/"
 
 [[menu.main]]
     name = "FAQs"
