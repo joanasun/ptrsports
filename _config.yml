@@ -14,6 +14,17 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
+- scope:
+    path: ""
+    type: meet
+  values:
+    layout: member
+
+collections:
+  meet:
+    output: true
+    permalink: /:collection/:name
+
 
 # Jekyll
 permalink:          /blog/:title/
