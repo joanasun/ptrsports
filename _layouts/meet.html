@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 				</header>
 
 
@@ -33,12 +33,12 @@
 						{% for member in site.meet %}
 							<article>
 								<header>
-									<h2><a href="{{ member.url | absolute_url }}">{{ member.title }}</h2>
+									<h2><a href="{{ member.url | relative_url }}">{{ member.title }}</h2>
 								</header>
-								<a href="{{ member.url | absolute_url }}" class="image fit"><img src="{{ member.image | absolute_url }}" alt="" /></a>
+								<a href="{{ member.url | relative_url }}" class="image fit"><img src="{{ member.image | relative_url }}" alt="" /></a>
 								<p>{{ member.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ member.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ member.url | relative_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
 						{% endfor %}

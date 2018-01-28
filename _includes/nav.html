@@ -1,7 +1,7 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/services/' %} active {% endif %}"><a href="{{ "/services/" | absolute_url }}">Services</a></li>
-  <li class="{% if page.url contains '/meet/' %} active {% endif %}"><a href="{{ "/meet/" | absolute_url }}">Meet the Experts</a></li>
-  <li class="{% if page.url contains '/patients/' %} active {% endif %}"><a href="{{ "/patients/" | absolute_url }}">For Patients</a></li>
-  <li class="{% if page.url contains '/faq/' %} active {% endif %}"><a href="{{ "/faq/" | absolute_url }}">FAQs</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | relative_url }}">Home</a></li>
+  <li class="{% if page.url contains '/services/' %} active {% endif %}"><a href="{{ "/services/" | relative_url }}">Services</a></li>
+  <li class="{% if page.url contains '/meet/' %} active {% endif %}"><a href="{{ "/meet/" | relative_url }}">Meet the Experts</a></li>
+  <li class="{% if page.url contains '/patients/' %} active {% endif %}"><a href="{{ "/patients/" | relative_url }}">For Patients</a></li>
+  <li class="{% if page.url contains '/faq/' %} active {% endif %}"><a href="{{ "/faq/" | relative_url }}">FAQs</a></li>
 </ul>
