@@ -1,7 +1,7 @@
 ---
-title: "Jan Klofter, MPT"
-date: 2018-01-15T18:35:04-08:00
-draft: true
+name: "Jan Klofter, MPT"
+title: "Physical Therapist"
+order: 3
 ---
 Jan (pronounced “Yen”) is our Physical Therapy Director and physical therapist.
 

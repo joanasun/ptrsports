@@ -30,10 +30,11 @@
 				<div id="main">
 					<!-- Post -->
 					<section class="posts">
-						{% for member in site.meet %}
+						{% assign sorted_members = site.meet | sort:'order' %}
+						{% for member in sorted_members %}
 							<article>
 								<header>
-									<h2><a href="{{ member.url | relative_url }}">{{ member.title }}</h2>
+									<h2><a href="{{ member.url | relative_url }}">{{ member.name }}</h2>
 								</header>
 								<a href="{{ member.url | relative_url }}" class="image fit"><img src="{{ member.image | relative_url }}" alt="" /></a>
 								<p>{{ member.excerpt }}</p>

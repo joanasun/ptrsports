@@ -1,7 +1,7 @@
 ---
-title: "Olivia Hill, ATC"
-date: 2018-01-15T20:05:29-08:00
-draft: true
+name: "Olivia Hill, ATC"
+title: "Athletic Trainer"
+order: 7
 ---
 Olivia received her Bachelor's Degree in Athletic Training from San Jose State in May 2014, and has been a  Certified Athletic Trainer since June 2014. During her schooling she held many internships with schools in the Bay Area and gained over 1,000 hours of experience. Some of these schools include Santa Clara University, SJSU, Bellarmine College Preparatory, and Archbishop Mitty High School.
 

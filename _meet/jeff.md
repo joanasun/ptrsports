@@ -1,8 +1,7 @@
 ---
-title: "Jeffrey Blue, MD"
-date: 2018-01-15T18:34:48-08:00
-weight: 10
-draft: true
+name: "Jeffrey Blue, MD"
+title: Physician
+order: 1
 ---
 Dr. Blue is our Medical Director and Physician.
 

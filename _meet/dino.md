@@ -1,5 +1,7 @@
 ---
-title: "Dino Del Mastro, DC"
+name: "Dino Del Mastro, DC"
+title: "Chiropractor"
+order: 6
 ---
 Dr. Dino Del Mastro earned his Doctor of Chiropractic Degree from Palmer College of Chiropractic West (PCCW) in San Jose, California.  Dr. Del Mastro chose PCCW because of its prestigious Sports Council Program, which allowed him to study and specialize in Sports Therapy.  In school, he had ample opportunity for hands-on experience in injury evaluation and management while working as an intern at local sporting events.
 
