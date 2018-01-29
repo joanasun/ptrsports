@@ -1,9 +1,9 @@
-- street: 1825 Civic Center Dr.
+- street: 1825 Civic Center Dr, Suite 25
   city: Santa Clara
   state: CA
   zip: 95050
 
-- street: 221 E Hacienda Ave
+- street: 221 E Hacienda Ave, Suite C
   city: Campbell
   state: CA
   zip: 95008
