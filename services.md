@@ -23,14 +23,6 @@ Choosing a physician is a very personal matter. We think you will like who we ar
 Physical therapy at PTR Sports is unlike any other. You will find that our programs are hands-on and individualized more than other therapy. We expect you to improve and get better and will push you to do so as fast as you are able. Set your expectations high and we will exceed them.
 
 <header>
-  <h2>Executive Sports Physicals</h2>
-</header>
-
-You remember the sports physical you had when you were in high school? We have taken that to the extreme and created the ultimate measurement tool for your adult years. Our executive sports physical is the state-of-the-art exam and measurement tool for your health.
-
-We use hard data to measure every aspect of who you are and compare you to others your age and the ideal 18-year-old. See how you compare – are you just average, or in the top ten or even one percent?
-
-<header>
   <h2>Chiropractic</h2>
 </header>
 
