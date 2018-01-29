@@ -2458,7 +2458,7 @@
 
 		.image.main {
 			float: left;
-			margin-right: 40px;
+			margin-right: 30px;
 			width: 200px;
 		}
 
@@ -2473,10 +2473,6 @@
 		@media screen and (max-width: 736px) {
 
 			.image.fit {
-				margin: 2rem 0;
-			}
-
-			.image.main {
 				margin: 2rem 0;
 			}
 
