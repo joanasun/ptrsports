@@ -2,6 +2,7 @@
 name: "Jan Klofter, MPT"
 title: "Physical Therapist"
 order: 3
+image: jan.jpg
 ---
 Jan (pronounced “Yen”) is our Physical Therapy Director and physical therapist.
 

@@ -2,6 +2,7 @@
 name: "Jeffrey Blue, MD"
 title: Physician
 order: 1
+image: jeff.jpg
 ---
 Dr. Blue is our Medical Director and Physician.
 

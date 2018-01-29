@@ -2,6 +2,7 @@
 name: "Tom Rice, PTA"
 title: "Physical Therapy Assistant"
 order: 4
+image: tom.jpg
 ---
 Tom earned his Physical Therapy Assistant degree from DeAnza College in Cupertino after receiving his Bachelor’s degree in Athletic Training from San Jose State University.  He has been a Certified Strength and Conditioning Specialist since 2001.
 

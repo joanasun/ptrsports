@@ -2,6 +2,7 @@
 name: "Jacquelyn Havlicek, ATC"
 title: "Athletic Trainer"
 order: 5
+image: jacquelyn.jpg
 ---
 Jacquelyn received her Bachelor’s Degree in Athletic Training from San Jose State University in 2014 and has been a Certified Athletic Trainer since June 2014.  During her schooling she held several internships in various settings around the Bay Area including high schools, junior colleges, universities, and physical therapy clinics.  She has gained over 1,000 hours of experience at schools including San Jose State University, Santa Clara University, Harker High School, and Bellarmine College Preparatory.
 
