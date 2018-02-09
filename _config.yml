@@ -2,8 +2,8 @@
 title:              PTR Sports
 description:        "A Medical Corporation"
 locale:             en_US
-baseurl: /ptrsports
-url: https://joanasun.github.io
+baseurl: /
+url: http://ptrsports.com
 
 defaults:
 - scope:
