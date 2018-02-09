@@ -2,7 +2,7 @@
 title:              PTR Sports
 description:        "A Medical Corporation"
 locale:             en_US
-baseurl: /
+baseurl: ''
 url: http://ptrsports.com
 
 defaults:
