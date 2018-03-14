@@ -13,6 +13,7 @@ sitemap:
 We advise that patients call their insurance or go to their insurance website to double check that we are in network for their plan. In general, we accept all PPO insurances. Additionally, we are not in network for most Covered CA plans. We do offer cash pay options if necessary. Please call our office if you have any further questions. 
 
 <h3>What should I bring to my appointment?</h3>
+
 Regular medical appointment
   <ul>
   <li>Insurance Card</li>
@@ -50,9 +51,10 @@ We are open 8am-5pm Monday through Friday; appointments outside these hours can 
 
 <h3>Where are you located?</h3>
 <ul>
-<li>Santa Clara - 1825 Civic Center Drive, Suite 25, Santa Clara, CA 95050</li>
+  <li><b>Santa Clara - 1825 Civic Center Drive, Suite 25, Santa Clara, CA 95050</b></li>
   <br>Providers at this location - Dr. Jeffrey Blue, Joana Sun FNP-C, Jan Klofter MPT, Tom Rice PTA, Dino Del Mastro DC
-  <li>Campbell - 221 E Hacienda Ave, Suite C., Campbell, CA 95008</li>
+  
+  <li><b>Campbell - 221 E Hacienda Ave, Suite C., Campbell, CA 95008</b></li>
   <br>Providers at this location - Dr. Jeffrey Blue (Tuesday and Thursday mornings) and Dino Del Mastro, DC
   </ul>
 
