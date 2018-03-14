@@ -37,7 +37,7 @@ We advise that patients call their insurance or go to their insurance website to
 <h3>Do you perform immigration physical examinations?</h3>
 Yes, we are a designated site for immigration physicals, which is an exam that is required for anybody who applies for lawful permanent resident status. The cost for an immigration physical at our office is $295 per person. This fee is due at the time of initial exam, and covers initial consult visit, PPD placement for tuberculosis screening, PPD read 48-72 hours after placement and follow up visit to finalize forms.
 
-Before coming to the office, please print out and fill out the first page of <a href="https://www.uscis.gov/sites/default/files/files/form/i-693.pdf">FOrm I-693</a> and write your legal name on the top of EVERY page of the form. If you are not able to do this at home, please allow an additional 15-30 minutes to complete this in the office before your appointment.
+Before coming to the office, please print out and fill out the first page of <a href="https://www.uscis.gov/sites/default/files/files/form/i-693.pdf">Form I-693</a> and write your legal name on the top of EVERY page of the form. If you are not able to do this at home, please allow an additional 15-30 minutes to complete this in the office before your appointment.
 
 It is very important that you bring any vaccination records and recent immunization lab work that you have in order to determine which vaccines or labs you may need.  If you do not have any vaccination records we will order labs to determine which vaccines you have immunity to.  Once the results are received from the laboratory, this will determine if any additional vaccines are necessary in order to complete the I-693 process.
 
