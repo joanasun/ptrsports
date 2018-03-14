@@ -13,14 +13,12 @@ sitemap:
 We advise that patients call their insurance or go to their insurance website to double check that we are in network for their plan. In general, we accept all PPO insurances. Additionally, we are not in network for most Covered CA plans. We do offer cash pay options if necessary. Please call our office if you have any further questions. 
 
 <h3>What should I bring to my appointment?</h3>
-
 <b>Regular medical appointment</b>
   <ul>
   <li>Insurance Card</li>
   <li>Photo ID</li>
   <li>If you’re a new patient, please bring any previous medical records related to your health condition. This includes original image files (not just the report) for sports/orthopedic injuries. </li>
   </ul>
-
 <b>Immigration physical</b>
   <ul>
   <li>Valid passport or identification</li>
@@ -29,7 +27,6 @@ We advise that patients call their insurance or go to their insurance website to
   <li>Medical records, if applicable</li>
   <li>See below for further information</li>
   </ul>
-
 <b>Sports physical</b>
   <ul>
   <li>School form for us to fill out. If your school does not have a specific form, we have a generic one that most schools accept. </li>
@@ -40,7 +37,7 @@ We advise that patients call their insurance or go to their insurance website to
 <h3>Do you perform immigration physical examinations?</h3>
 Yes, we are a designated site for immigration physicals, which is an exam that is required for anybody who applies for lawful permanent resident status. The cost for an immigration physical at our office is $295 per person. This fee is due at the time of initial exam, and covers initial consult visit, PPD placement for tuberculosis screening, PPD read 48-72 hours after placement and follow up visit to finalize forms.
 
-Before coming to the office, please print out and fill out the first page of Form I-693 (link) and write your legal name on the top of EVERY page of the form. If you are not able to do this at home, please allow an additional 15-30 minutes to complete this in the office before your appointment.
+Before coming to the office, please print out and fill out the first page of <a href="https://www.uscis.gov/sites/default/files/files/form/i-693.pdf">FOrm I-693</a> and write your legal name on the top of EVERY page of the form. If you are not able to do this at home, please allow an additional 15-30 minutes to complete this in the office before your appointment.
 
 It is very important that you bring any vaccination records and recent immunization lab work that you have in order to determine which vaccines or labs you may need.  If you do not have any vaccination records we will order labs to determine which vaccines you have immunity to.  Once the results are received from the laboratory, this will determine if any additional vaccines are necessary in order to complete the I-693 process.
 
