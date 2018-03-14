@@ -13,21 +13,29 @@ sitemap:
 We advise that patients call their insurance or go to their insurance website to double check that we are in network for their plan. In general, we accept all PPO insurances. Additionally, we are not in network for most Covered CA plans. We do offer cash pay options if necessary. Please call our office if you have any further questions. 
 
 <h3>What should I bring to my appointment?</h3>
-*Regular medical appointment
-  *Insurance Card
-  *Photo ID
-  *If you’re a new patient, please bring any previous medical records related to your health condition. This includes original image files (not just the report) for sports/orthopedic injuries. 
-*Immigration physical
-  *Valid passport or identification
-  *Vaccine records, if applicable
-  *Prior immigration physical forms, if applicable
-  *Medical records, if applicable
-  *See below for further information
-*Sports physical
-  *School form for us to fill out. If your school does not have a specific form, we have a generic one that most schools accept. 
-  *Glasses or contacts
-  *Braces or splints you use
-  *If you need a sports physical and you haven’t had an annual physical exam through your primary care provider, you may bill the sports physical to your insurance policy. If you have already had an annual physical OR you do not have insurance, the cash pay price for a sports physical at our office is $75.
+Regular medical appointment
+  <ul>
+  <li>Insurance Card</li>
+  <li>Photo ID</li>
+  <li>If you’re a new patient, please bring any previous medical records related to your health condition. This includes original image files (not just the report) for sports/orthopedic injuries. </li>
+  </ul>
+
+Immigration physical
+  <ul>
+  <li>Valid passport or identification</li>
+  <li>Vaccine records, if applicable</li>
+  <li>Prior immigration physical forms, if applicable</li>
+  <li>Medical records, if applicable</li>
+  <li>See below for further information</li>
+  </ul>
+
+Sports physical
+  <ul>
+  <li>School form for us to fill out. If your school does not have a specific form, we have a generic one that most schools accept. </li>
+  <li>Glasses or contacts</li>
+  <li>Braces or splints you use</li>
+  <li>If you need a sports physical and you haven’t had an annual physical exam through your primary care provider, you may bill the sports physical to your insurance policy. If you have already had an annual physical OR you do not have insurance, the cash pay price for a sports physical at our office is $75.</li>
+  </ul>
 <h3>Do you perform immigration physical examinations?</h3>
 Yes, we are a designated site for immigration physicals, which is an exam that is required for anybody who applies for lawful permanent resident status. The cost for an immigration physical at our office is $295 per person. This fee is due at the time of initial exam, and covers initial consult visit, PPD placement for tuberculosis screening, PPD read 48-72 hours after placement and follow up visit to finalize forms.
 
@@ -41,10 +49,12 @@ Once we have received all of your finalized documentation, you will receive noti
 We are open 8am-5pm Monday through Friday; appointments outside these hours can also be accommodated. Please call for holiday hours. 
 
 <h3>Where are you located?</h3>
-*Santa Clara - 1825 Civic Center Drive, Suite 25, Santa Clara, CA 95050
-  *Providers at this location - Dr. Jeffrey Blue, Joana Sun FNP-C, Jan Klofter MPT, Tom Rice PTA, Dino Del Mastro DC
-*Campbell - 221 E Hacienda Ave, Suite C., Campbell, CA 95008
-  *Providers at this location - Dr. Jeffrey Blue (Tuesday and Thursday mornings) and Dino Del Mastro, DC
+<ul>
+<li>Santa Clara - 1825 Civic Center Drive, Suite 25, Santa Clara, CA 95050</li>
+  <br>Providers at this location - Dr. Jeffrey Blue, Joana Sun FNP-C, Jan Klofter MPT, Tom Rice PTA, Dino Del Mastro DC
+  <li>Campbell - 221 E Hacienda Ave, Suite C., Campbell, CA 95008</li>
+  <br>Providers at this location - Dr. Jeffrey Blue (Tuesday and Thursday mornings) and Dino Del Mastro, DC
+  </ul>
 
 <h3>How do I access the patient portal?</h3>
 The link to the patient portal is here. When you first register at our office and provide your email address, you will receive an email to register for the portal. If you need that email resent to you, please call the office and we would be happy to assist you. 
@@ -62,10 +72,12 @@ Unfortunately we do not have a lab on site. We do provide lab slips for patients
 This is based on your insurance allowance, which varies between plans and insurance providers. We advise you to contact your insurance company prior to scheduling. If your insurance company requires a referral, we would be happy to book you an appointment with one of our medical providers to assess your need for physical therapy. You may also bring a referral from your PCP. 
 
 <h3>What should I bring to my PT or chiropractic appointment?</h3>
-*Referral, if necessary
-*If it’s your first PT/chiropractic appointment, please bring your insurance card and photo ID
-*Prior imaging reports
-*Wear comfortable clothes - bring shorts if you’re being seen for a lower extremity injury
+<ul>
+<li>Referral, if necessary</li>
+<li>If it’s your first PT/chiropractic appointment, please bring your insurance card and photo ID</li>
+<li>Prior imaging reports</li>
+<li>Wear comfortable clothes - bring shorts if you’re being seen for a lower extremity injury</li>
+  </ul>
 
 <h3>What can I expect from my first appointment?</h3>
 Prior to your first appointment, we call and confirm your insurance benefits. You will be informed of your coverage and out-of-pocket costs when you check-in for your first PT/chiropractic visit. Your first appointment will be longer than subsequent appointments (45 minutes to an hour vs. 30-45 mins). You will be evaluated and treated during your first appointment with our physical therapy or chiropractic team, and you will be provided with a home exercise plan. They will also make recommendations about the frequency and duration for future visits. 
