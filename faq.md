@@ -14,14 +14,14 @@ We advise that patients call their insurance or go to their insurance website to
 
 <h3>What should I bring to my appointment?</h3>
 
-Regular medical appointment
+<b>Regular medical appointment</b>
   <ul>
   <li>Insurance Card</li>
   <li>Photo ID</li>
   <li>If you’re a new patient, please bring any previous medical records related to your health condition. This includes original image files (not just the report) for sports/orthopedic injuries. </li>
   </ul>
 
-Immigration physical
+<b>Immigration physical</b>
   <ul>
   <li>Valid passport or identification</li>
   <li>Vaccine records, if applicable</li>
@@ -30,7 +30,7 @@ Immigration physical
   <li>See below for further information</li>
   </ul>
 
-Sports physical
+<b>Sports physical</b>
   <ul>
   <li>School form for us to fill out. If your school does not have a specific form, we have a generic one that most schools accept. </li>
   <li>Glasses or contacts</li>
