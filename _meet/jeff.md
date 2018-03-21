@@ -13,16 +13,16 @@ He uses his sports medicine background to treat all of his patients. Most condit
 Dr. Blue played many sports growing-up and currently enjoys running, working-out, and golf, as well as spending time with his family. He currently resides in San Jose.
 
 <section id="photos">
-  <img src="2916784.jpg" alt="UCSF">
-  <img src="6012592.jpg" alt="SC Broncos">
-  <img src="6265523_orig.jpg" alt="SF Giants">
-  <img src="3206498_orig.jpg" alt="OSU"><br>
-  <img src="9622404.png" alt="SJ Quakes">
-  <img src="7764126_orig.jpg" alt="Ana Luna">
-  <img src="5965763_orig.jpg" alt="Totem"></br><br>
-  <img src="9956769_orig.jpg" alt="Oro">
-  <img src="4157908.jpg" alt="Kooza">
-  <img src="6969183_orig.jpg" alt="Corteo">
-  <img src="8010037.jpg" alt="Varekai">
-  <img src="4512040.jpg" alt="Dralion"></br>
+  <img src="{{ '/images/2916784.jpg' | relative_url }}" alt="UCSF">
+  <img src="{{ '/images/6012592.jpg' | relative_url }}" alt="SC Broncos">
+  <img src="{{ '/images/6265523_orig.jpg' | relative_url }}" alt="SF Giants">
+  <img src="{{ '/images/3206498_orig.jpg' | relative_url }}" alt="OSU">
+  <img src="{{ '/images/9622404.png' | relative_url }}" alt="SJ Quakes">
+  <img src="{{ '/images/7764126_orig.jpg' | relative_url }}" alt="Ana Luna">
+  <img src="{{ '/images/5965763_orig.jpg' | relative_url }}" alt="Totem">
+  <img src="{{ '/images/9956769_orig.jpg' | relative_url }}" alt="Oro">
+  <img src="{{ '/images/4157908.jpg' | relative_url }}" alt="Kooza">
+  <img src="{{ '/images/6969183_orig.jpg' | relative_url }}" alt="Corteo">
+  <img src="{{ '/images/8010037.jpg' | relative_url }}" alt="Varekai">
+  <img src="{{ '/images/4512040.jpg' | relative_url }}" alt="Dralion">
 </section>
