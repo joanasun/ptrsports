@@ -19,8 +19,8 @@ Dr. Blue played many sports growing-up and currently enjoys running, working-out
   <img src="3206498_orig.jpg" alt="OSU"><br>
   <img src="9622404.png" alt="SJ Quakes">
   <img src="7764126_orig.jpg" alt="Ana Luna">
-  <img src="5965763_orig.jpg" alt="Totem"></br>
-  <img src="9956769_orig.jpg" alt="Oro"><br>
+  <img src="5965763_orig.jpg" alt="Totem"></br><br>
+  <img src="9956769_orig.jpg" alt="Oro">
   <img src="4157908.jpg" alt="Kooza">
   <img src="6969183_orig.jpg" alt="Corteo">
   <img src="8010037.jpg" alt="Varekai">
