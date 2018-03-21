@@ -11,3 +11,18 @@ Dr. Blue has been in private practice since 1998. He previously had offices in S
 He uses his sports medicine background to treat all of his patients. Most conditions can be treated by combining the disciplines of sports medicine – exercise, nutrition, medication, and thinking right, and he uses these to educate patients to take control of their medical problems and better their lives.
 
 Dr. Blue played many sports growing-up and currently enjoys running, working-out, and golf, as well as spending time with his family. He currently resides in San Jose.
+
+<section id="photos">
+  <img src="2916784.jpg" alt="UCSF">
+  <img src="6012592.jpg" alt="SC Broncos">
+  <img src="6265523_orig.jpg" alt="SF Giants">
+  <img src="3206498_orig.jpg" alt="OSU"><br>
+  <img src="9622404.png" alt="SJ Quakes">
+  <img src="7764126_orig.jpg" alt="Ana Luna">
+  <img src="5965763_orig.jpg" alt="Totem"></br>
+  <img src="9956769_orig.jpg" alt="Oro"><br>
+  <img src="4157908.jpg" alt="Kooza">
+  <img src="6969183_orig.jpg" alt="Corteo">
+  <img src="8010037.jpg" alt="Varekai">
+  <img src="4512040.jpg" alt="Dralion"></br>
+</section>
