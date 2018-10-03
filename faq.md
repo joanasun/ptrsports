@@ -49,10 +49,10 @@ We are open 8am-5pm Monday through Friday; appointments outside these hours can 
 <h3>Where are you located?</h3>
 <ul>
   <li><b>Santa Clara - 1825 Civic Center Drive, Suite 25, Santa Clara, CA 95050</b></li>
-  <br>Providers at this location - Dr. Jeffrey Blue, Joana Sun FNP-C, Jan Klofter MPT, Tom Rice PTA, Dino Del Mastro DC
+  <br>Providers at this location - Dr. Jeffrey Blue, Joana Sun FNP-C, Jan Klofter MPT, Tom Rice PTA
   
   <li><b>Campbell - 221 E Hacienda Ave, Suite C., Campbell, CA 95008</b></li>
-  <br>Providers at this location - Dr. Jeffrey Blue (Tuesday and Thursday mornings) and Dino Del Mastro, DC
+  <br>Providers at this location - Dr. Jeffrey Blue (Tuesday and Thursday afternoons)
   </ul>
 
 <h3>How do I access the patient portal?</h3>
@@ -65,21 +65,21 @@ There is an Imaging center in the same building as our office, called Santa Clar
 Unfortunately we do not have a lab on site. We do provide lab slips for patients and take to the specific lab that is accepted by your insurance. The most common are LabCorp and Quest Diagnostics. 
 
 
-<h2>Physical Therapy and Chiropractic</h2>
+<h2>Physical Therapy</h2>
 
-<h3>Do I need a referral for my physical therapy or chiropractic appointment?</h3>
+<h3>Do I need a referral for my physical therapy appointment?</h3>
 This is based on your insurance allowance, which varies between plans and insurance providers. We advise you to contact your insurance company prior to scheduling. If your insurance company requires a referral, we would be happy to book you an appointment with one of our medical providers to assess your need for physical therapy. You may also bring a referral from your PCP. 
 
-<h3>What should I bring to my PT or chiropractic appointment?</h3>
+<h3>What should I bring to my PT appointment?</h3>
 <ul>
 <li>Referral, if necessary</li>
-<li>If it’s your first PT/chiropractic appointment, please bring your insurance card and photo ID</li>
+<li>If it’s your first PT appointment, please bring your insurance card and photo ID</li>
 <li>Prior imaging reports</li>
 <li>Wear comfortable clothes - bring shorts if you’re being seen for a lower extremity injury</li>
   </ul>
 
 <h3>What can I expect from my first appointment?</h3>
-Prior to your first appointment, we call and confirm your insurance benefits. You will be informed of your coverage and out-of-pocket costs when you check-in for your first PT/chiropractic visit. Your first appointment will be longer than subsequent appointments (45 minutes to an hour vs. 30-45 mins). You will be evaluated and treated during your first appointment with our physical therapy or chiropractic team, and you will be provided with a home exercise plan. They will also make recommendations about the frequency and duration for future visits. 
+Prior to your first appointment, we call and confirm your insurance benefits. You will be informed of your coverage and out-of-pocket costs when you check-in for your first PT visit. Your first appointment will be longer than subsequent appointments (45 minutes to an hour vs. 30-45 mins). You will be evaluated and treated during your first appointment with our physical therapy or chiropractic team, and you will be provided with a home exercise plan. They will also make recommendations about the frequency and duration for future visits. 
 
 <h3>How long will it take for my injury to heal?</h3>
 This is highly variable. Many injuries require patience and persistence to heal completely. Our job is to help your injury heal as quickly as it can, and also to prevent the injury from recurring in the future. 
